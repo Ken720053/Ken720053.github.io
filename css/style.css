@@ -105,7 +105,7 @@ body{
 .tools-list-img{
     width: 416px;
     margin: 0;
-    border-radius: 16px 16px 0 0;
+        border-radius: 16px 16px 0 0;
     overflow: hidden;
 }
 .tools-list-img img{
