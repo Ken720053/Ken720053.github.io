@@ -52,6 +52,7 @@ body{
     background-color: rgba(242, 242, 242, 0.2);
     margin: 20px 0px 20px 76px;
     border: none;
+    outline: none;
 }
 .tools-search{
     display: flex;
